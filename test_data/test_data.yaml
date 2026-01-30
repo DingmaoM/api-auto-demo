@@ -1,0 +1,19 @@
+user:
+  create:
+    valid_data:
+      name: "Leanne Graham"
+      email: "Sincere@april.biz"
+      gender: "male"
+      status: "active"
+    invalid_data:
+      name: ""
+      email: "invalid-email"
+
+
+product:
+  create:
+    valid_data:
+      title: "Test Product"
+      price: 99.99
+      description: "Test product description"
+      category: "electronics"
