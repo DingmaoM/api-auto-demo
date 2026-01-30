@@ -1,0 +1,4 @@
+2026-01-15 16:50:50,839 - api_client - INFO - 请求方法: POST, URL: https://jsonplaceholder.typicode.com/users
+2026-01-15 16:50:51,116 - api_client - INFO - 请求方法: PUT, URL: https://jsonplaceholder.typicode.com/users/11
+2026-01-15 16:50:51,570 - api_client - ERROR - 请求失败: 500 Server Error: Internal Server Error for url: https://jsonplaceholder.typicode.com/users/11
+2026-01-15 16:50:51,730 - api_client - INFO - 请求方法: DELETE, URL: https://jsonplaceholder.typicode.com/users/11

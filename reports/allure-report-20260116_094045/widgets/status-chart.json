@@ -1,0 +1,1 @@
+[{"uid":"ba21b3b03d12c91b","name":"获取用户列表 - 成功","time":{"start":1768527646562,"stop":1768527648007,"duration":1445},"status":"passed","severity":"normal"},{"uid":"4792ddf7fcd6e5bd","name":"批量获取用户性能测试","time":{"start":1768527648009,"stop":1768527648912,"duration":903},"status":"passed","severity":"normal"}]

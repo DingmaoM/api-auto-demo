@@ -1,0 +1,3 @@
+2026-01-15 16:13:46,411 - api_client - INFO - 请求方法: POST, URL: https://jsonplaceholder.typicode.com/users
+2026-01-15 16:13:46,707 - api_client - INFO - 请求方法: DELETE, URL: https://jsonplaceholder.typicode.com/users/11
+2026-01-15 16:13:47,011 - api_client - INFO - 请求方法: DELETE, URL: https://jsonplaceholder.typicode.com/users/11

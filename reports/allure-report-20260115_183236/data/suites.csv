@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"测试获取用户列表","544","获取用户列表 - 成功","test_cases","2026-01-15","passed","2026-01-15","TestUserAPI","test_user_api","",""
+"性能测试：批量获取用户","184","批量获取用户性能测试","test_cases","2026-01-15","passed","2026-01-15","TestUserPerformance","test_user_api","",""

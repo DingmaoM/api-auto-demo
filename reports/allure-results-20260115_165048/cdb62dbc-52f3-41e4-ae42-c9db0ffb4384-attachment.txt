@@ -1,0 +1,4 @@
+INFO     api_client:api_client.py:30 请求方法: POST, URL: https://jsonplaceholder.typicode.com/users
+INFO     api_client:api_client.py:30 请求方法: PUT, URL: https://jsonplaceholder.typicode.com/users/11
+ERROR    api_client:api_client.py:45 请求失败: 500 Server Error: Internal Server Error for url: https://jsonplaceholder.typicode.com/users/11
+INFO     api_client:api_client.py:30 请求方法: DELETE, URL: https://jsonplaceholder.typicode.com/users/11

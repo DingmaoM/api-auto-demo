@@ -1,0 +1,1 @@
+INFO     api_client:api_client.py:30 请求方法: POST, URL: https://jsonplaceholder.typicode.com/users
